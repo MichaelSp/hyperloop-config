@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'opal', '>= 0.11.0', '< 0.12.0'
   spec.add_dependency 'opal-browser', '~> 0.2.0'
   spec.add_dependency 'uglifier'
-  spec.add_dependency 'mini_racer', '~> 0.1.15'
+  spec.add_dependency 'mini_racer', '~> 0.2.0'
   # https://github.com/discourse/mini_racer/issues/92
   spec.add_dependency 'libv8', '~> 6.3.0'
 
